@@ -1,0 +1,14 @@
+learn-python-flask/tutorial/flask-tutorialv/env/
+
+learn-python-flask/tutorial/flask-tutorialv/*.pyc
+learn-python-flask/tutorial/flask-tutorialv/__pycache__/
+
+learn-python-flask/tutorial/flask-tutorialv/instance/
+
+learn-python-flask/tutorial/flask-tutorialv/.pytest_cache/
+learn-python-flask/tutorial/flask-tutorialv/.coverage
+learn-python-flask/tutorial/flask-tutorialv/htmlcov/
+
+learn-python-flask/tutorial/flask-tutorialv/dist/
+learn-python-flask/tutorial/flask-tutorialv/build/
+learn-python-flask/tutorial/flask-tutorialv/*.egg-info/
